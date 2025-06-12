@@ -1,4 +1,4 @@
-Hi, I'm Harry
+Hi, I'm Harry Marsh
 
 I'm a mathematics graduate transitioning into backend development. I'm passionate about solving real-world problems through code and building functional, well-structured systems.
 
