@@ -1,37 +1,51 @@
-Hi, I'm Harry Marsh
+Hi, I'm Harry Marsh 
 
-I'm a mathematics graduate transitioning into backend development. I'm passionate about solving real-world problems through code and building functional, well-structured systems.
+I’m a mathematics graduate with a passion for applying Python and analytical skills to solve real-world problems. My work bridges backend development, statistical modelling, and finance/data analysis, with a focus on building practical, data-driven solutions.
 
-🧱 I recently built a full CRUD Workout Logger API using Python and Flask — a hands-on project that helped me learn RESTful routing, JSON handling, and file-based storage.
+Technical Skills:
 
-💡 My background in mathematics has given me strong skills in logic, algorithms, and pattern recognition — which I now apply to backend systems and clean, testable code.
+Languages & Tools: Python, R, SQL, MATLAB, JavaScript(beginner), LaTeX
 
-🎯 I'm currently open to backend internships or junior roles where I can continue learning, building, and contributing in a real-world setting.
+Frameworks: Flask, Jinja2
 
----
+Libraries: NumPy, pandas, matplotlib, scikit-learn, statsmodels
 
-### 🧰 Tech Stack
+Concepts: REST APIs, CRUD, JSON, Monte Carlo simulation, regression, statistical inference, machine learning basics
 
-- **Languages:** Python, JavaScript (beginner), LaTeX  
-- **Frameworks:** Flask, Jinja2  
-- **Tools:** Postman, Git, VS Code  
-- **Concepts:** REST APIs, CRUD, JSON, File I/O
+Projects:
 
----
+Workout Logger API (Flask, Python)
 
-### 📌 Projects
+Built a backend API with full CRUD functionality and input validation.
 
-- 🔗 [Workout Logger API](https://github.com/Harry-Marsh/workout-logger-api): A backend API for logging and managing workouts using Flask + JSON
+Structured and managed datasets, demonstrating backend principles and clean data handling.
 
----
+Monte Carlo Simulation Dissertation (R, Python)
 
-### 📫 Contact Me
+Applied Monte Carlo and Markov Chain Monte Carlo methods to financial risk and PDE simulations.
 
-- [LinkedIn](https://www.linkedin.com/in/harrymarsh32)  
-- [Email](h4rrym4rsh02@gmail.com)
+Explored random number generation, rejection/importance sampling, and variance reduction.
 
----
+Achieved strong results validating theory against simulations.
 
-### ⚡ Fun Fact
+Logistic Regression for Health Outcomes (Python, statsmodels)
 
-I'm passionate about fitness and love building tools that help people train smarter and track progress more effectively.
+Modelled health dataset outcomes using logistic regression.
+
+Cleaned and transformed real-world data, interpreting predictors through odds ratios and confidence intervals.
+
+Showcased practical statistical modelling for applied decision-making.
+
+Statistical Inference (Python, R)
+
+Implemented hypothesis testing, confidence intervals, and Bayesian updating.
+
+Compared Frequentist vs Bayesian methods, coding tests to replicate theoretical results.
+
+Applied inference methods to guide data-driven decision-making.
+
+📫 Contact
+
+LinkedIn: www.linkedin.com/in/harrymarsh32/
+
+Email: H4RRYM4RSH02@gmail.com
